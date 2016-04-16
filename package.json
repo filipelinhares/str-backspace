@@ -1,0 +1,25 @@
+{
+  "name": "str-backspace",
+  "version": "1.0.0",
+  "description": "Backspace strings",
+  "license": "MIT",
+  "repository": "filipelinhares/str-backspace",
+  "author": "Filipe <filipelinhares.com>",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "string",
+    "backspace"
+  ],
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
